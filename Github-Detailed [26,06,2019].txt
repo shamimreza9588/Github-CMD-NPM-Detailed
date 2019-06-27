@@ -1,0 +1,45 @@
+01. Go to git link on online and download it
+02. Then installed it on computer
+03. whether it is installed or not check it in cmd
+04. git --version
+05. Make a folder and open "git base here"
+06. git init [for initialize git in new folder and 
+    get a visible + invisible git folder ]
+00. git congig --global user.name "" []
+00. git config --global user.email "" []
+00. git config --user.name "" []
+00. git config --user.email "" []
+00. git config --list []
+00. clear []
+00. git branch [for watching branch numbers]
+00. git branch new branchname [for creating new branch]
+07. git add --all [track file for push on Github ]
+08. git add . [track file for push on Github ]
+09. git status [ watching file track or untrack condition ]
+00. git commit -m "message" []
+00. git log [ for watching present and previous comment]
+00. git log --online []
+00. git checkout []
+00. git checkout master []
+00. git diff []
+00. git show []
+00. git diff --staged []
+00. git rm file name [deleted a only file]
+00. git rm -r filename [if something in folder]
+00. git reset HEAD hot.txt [ after delete, it will delete permanenly]
+00. git pull [ make a up-date for pushing file online]
+00. git remote add origin repository link []
+00. git push -u origin master []
+00. git clone link []
+00. git clone link -b branchname []
+
+
+
+
+
+
+
+
+
+
+
